@@ -1,0 +1,28 @@
+.certifications-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px 25px;
+
+    max-width: 1400px;
+    margin: auto;
+
+    .title {
+        font-size: 40px;
+        color: #283347;
+        margin-top: 0;
+    }
+
+    .courses {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+
+        width: 90%;
+
+        @media screen and (max-width: 1000px) {
+            justify-content: center;
+        }
+
+    }
+}

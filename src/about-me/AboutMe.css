@@ -1,0 +1,21 @@
+.aboutMe-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #8C43FF;
+  padding: 80px 20px 180px 20px;
+  color: #fff;
+  text-align: center; }
+  .aboutMe-container .text-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 500px; }
+    .aboutMe-container .text-container .title {
+      font-size: 30px;
+      font-family: 'eurostile';
+      font-weight: bold;
+      margin: 0; }
+    .aboutMe-container .text-container .description {
+      font-size: 20px; }

@@ -1,0 +1,17 @@
+.social-media-container {
+  position: fixed;
+  left: 5px;
+  top: 220px;
+  display: flex;
+  flex-direction: column;
+  z-index: 10;
+
+  .social-media{
+    transition: all .2s;
+    margin-bottom: 10px;
+    &:hover{
+      cursor: pointer;
+      padding-left: 10px;
+    }
+  }
+}

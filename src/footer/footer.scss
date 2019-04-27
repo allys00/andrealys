@@ -1,0 +1,22 @@
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0;
+  border-top: 1px solid #ccc;
+  box-shadow: -1px 0px 5px #ccc;
+
+  background: #8c44ff;
+
+  p {
+    color: #ffffff;
+    font-weight: 500;
+    margin: 0;
+
+    &:first-child {
+      margin-bottom: 5px;
+    }
+  }
+
+}
