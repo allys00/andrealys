@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/andrealys/static/media/eurostile-bold.f03b58c5.otf"
   },
   {
-    "revision": "4030d56d7994c73704249013a07a3438",
+    "revision": "0a46caf494612a96e76cebffc33f8d22",
     "url": "/andrealys/index.html"
   }
 ];
