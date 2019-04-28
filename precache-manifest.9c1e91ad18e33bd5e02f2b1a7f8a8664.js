@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "f6e68c2379ebaa5daf84",
+    "revision": "61bafc1424b63ce8e16e",
     "url": "/andrealys/static/css/main.50bbfaa1.chunk.css"
   },
   {
-    "revision": "f6e68c2379ebaa5daf84",
-    "url": "/andrealys/static/js/main.8b216140.chunk.js"
+    "revision": "61bafc1424b63ce8e16e",
+    "url": "/andrealys/static/js/main.1e5038ba.chunk.js"
   },
   {
     "revision": "5f482569774576f4e1c7",
     "url": "/andrealys/static/js/runtime~main.8b7f0d56.js"
   },
   {
-    "revision": "b2d5e939d515d87a64d4",
-    "url": "/andrealys/static/js/2.aeaa381a.chunk.js"
+    "revision": "b9b3f168fdf865a24f92",
+    "url": "/andrealys/static/js/2.91fc75e5.chunk.js"
   },
   {
     "revision": "d839188883f1d9f624337537c91f8360",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/andrealys/static/media/eurostile-bold.f03b58c5.otf"
   },
   {
-    "revision": "0a46caf494612a96e76cebffc33f8d22",
+    "revision": "2717c06f42a3fd1136f2c3a302dd9c6b",
     "url": "/andrealys/index.html"
   }
 ];
